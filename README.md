@@ -84,19 +84,8 @@ const learning = [
 * 📚 Learn new technologies
 * 🧑‍💻 Become a professional developer
 
----
 
-## 📊 GitHub Activity
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
-
-</div>
-
----
 
 ## 🧑‍💻 Developer Quote
 
@@ -106,19 +95,3 @@ const learning = [
 
 ### ⭐ Thanks for visiting my GitHub profile!
 
-</div>
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jomary Selle/Jomary Selle/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jomary Selle/Jomary Selle/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Jomary Selle/Jomary Selle/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jomary Selle/Jomary Selle/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jomary Selle/Jomary Selle/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Jomary Selle/Jomary Selle/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
