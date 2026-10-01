@@ -1,16 +1,24 @@
 
-
 <div align="center">
 
-# 👋 Hello, I'm **JOMARYSELLE**
+<!-- Moving Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:0066ff&height=180&section=header&text=Jomary%20Selle%20M.&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
 
-### 🚀 Beginner Developer | 💻 Programmer | 🌐 Web Creator
+<!-- Moving Letters -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I'm+Jomary+Selle+M.;Thanks+for+visiting!+%F0%9F%91%8B" />
 
-> **“Code. Learn. Build. Repeat.”**
+<br>
 
-</div>
+<!-- Moving/Animated Image -->
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300">
 
----
+<br>
+
+### 💻 Welcome to my GitHub! 🚀
+
+
+
+
 
 ## 👨‍💻 About Me
 
@@ -94,4 +102,6 @@ const learning = [
 > **“Every expert was once a beginner.”**
 
 ### ⭐ Thanks for visiting my GitHub profile!
+
+
 
