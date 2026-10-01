@@ -95,11 +95,14 @@ const learning = [
 
 
 
-## 🧑‍💻 Developer Quote
+## 🧑‍💻 Contribution activity 
 
 <div align="center">
+<!-- Pac-Man Contribution Animation -->
+<img 
+ src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 
-> **“Every expert was once a beginner.”**
+<br>
 
 ### ⭐ Thanks for visiting my GitHub profile!
 
